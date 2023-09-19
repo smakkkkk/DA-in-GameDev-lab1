@@ -38,31 +38,14 @@
 - Установить и ознакомиться с программным обеспечением. 
 
 ## Задание 1
-### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач
+### Написать программу Hello World на Python с запуском в Jupiter Notebook.
 Ход работы:
-- Произвести подготовку данных для работы с алгоритмом линейной регрессии. 10 видов данных были установлены случайным образом, и данные находились в линейной зависимости. Данные преобразуются в формат массива, чтобы их можно было вычислить напрямую при использовании умножения и сложения.
+- Скачать ПО и написать HelloWorld на Python с запуском в Jupiter Notebook.
+- 1 ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/884a8608-c1d5-4f51-b94a-d28259c0085a)
+- 2 ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/6fdcfe05-66fc-4f9a-9a68-97e38c80c0bb)
+- 3 ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/7e87e80c-eefd-4591-a361-eb7aa6ca72a5)
 
-```py
 
-In [ ]:
-#Import the required modules, numpy for calculation, and Matplotlib for drawing
-import numpy as np
-import matplotlib.pyplot as plt
-#This code is for jupyter Notebook only
-%matplotlib inline
-
-# define data, and change list to array
-x = [3,21,22,34,54,34,55,67,89,99]
-x = np.array(x)
-y = [2,22,24,65,79,82,55,130,150,199]
-y = np.array(y)
-
-#Show the effect of a scatter plot
-plt.scatter(x,y)
-
-```
-
-- Определите связанные функции. Функция модели: определяет модель линейной регрессии wx+b. Функция потерь: функция потерь среднеквадратичной ошибки. Функция оптимизации: метод градиентного спуска для нахождения частных производных w и b.
 
 
 ## Задание 2
