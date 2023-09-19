@@ -39,18 +39,18 @@
 
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
-- 1) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/884a8608-c1d5-4f51-b94a-d28259c0085a)
-- 2) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/6fdcfe05-66fc-4f9a-9a68-97e38c80c0bb)
-- 3) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/7e87e80c-eefd-4591-a361-eb7aa6ca72a5)
+-  ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/884a8608-c1d5-4f51-b94a-d28259c0085a)
+-  ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/6fdcfe05-66fc-4f9a-9a68-97e38c80c0bb)
+-  ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/7e87e80c-eefd-4591-a361-eb7aa6ca72a5)
 
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
-- 1) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/0213636a-2c9e-41d4-beb7-7a4f486b0272)
-- 2) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/cb802e67-45ac-4756-895a-6d245b98187a)
-- 3) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/49c6b87c-abd7-4761-b7d8-dad38913da01)
-- 4) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/ba4246a4-59e6-4c24-9eec-0e8cb02b9e14)
-- 5) ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/8408d894-bc00-4067-b9ac-cdf4b587df6d)
+- ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/0213636a-2c9e-41d4-beb7-7a4f486b0272)
+- ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/cb802e67-45ac-4756-895a-6d245b98187a)
+- ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/49c6b87c-abd7-4761-b7d8-dad38913da01)
+- ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/ba4246a4-59e6-4c24-9eec-0e8cb02b9e14)
+- ![image](https://github.com/smakkkkk/DA-in-GameDev-lab1/assets/129764703/8408d894-bc00-4067-b9ac-cdf4b587df6d)
 
  
 
